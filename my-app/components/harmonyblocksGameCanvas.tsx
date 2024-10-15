@@ -2,7 +2,6 @@
 "use client";
 import React, { useRef, useEffect, useState, useCallback } from 'react';
 import { Shape, Outline } from '@/utils/Shape';
-import Confetti from '@/components/Confetti'; // Import Confetti component
 
 const GameCanvas: React.FC = () => {
     const canvasRef = useRef<HTMLCanvasElement | null>(null);

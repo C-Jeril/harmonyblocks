@@ -1,7 +1,9 @@
 
 # Harmony Blocks
 
-Harmony Blocks is a personal project aimed at helping people relax and focus through simple, engaging gameplay. It was inspired by psychological research on how games can positively impact mental well-being, and it's designed for anyone seeking a moment of calm.
+tg12: Harmony Blocks is a personal project that aims to help people relax and focus through simple, fun games. It is inspired by psychological research on how games can have a positive impact on mental health, and it is designed for anyone looking for a moment of calm.
+
+Alex: Based on the needs of the project, I adapted the code from python to nextjs14, and then combined our considerations of positive psychology and game design to add some experience and functions. Welcome to download and experience it.
 
 ## How to Run
 
